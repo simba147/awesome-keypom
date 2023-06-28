@@ -2,8 +2,15 @@
 A list of awesome keypom resources, ecosystem maps, media, use cases. Woof woof. 
 
 ## Businesses Building On Keypom
-- Veriken (https://www.veriken.com/) for ticketing
-- ShardDog: (https://shard.dog/) wallet creation, Mailchimp/Beehiv Integration, SBT gating
+#### Veriken (https://www.veriken.com/) for ticketing
+#### ShardDog: (https://shard.dog/) wallet creation, Mailchimp/Beehiv Integration, SBT gating (3000+ Wallets Created)
+- Murder Mystery Club
+- NEARWeek
+- Banyan Newsletter
+- BluntDAO
+- Rogues Studio
+
+#### Harmonic Guild
 
 ## Case Studies
 > See how Keypom is being used on these crypto streets
@@ -46,5 +53,23 @@ A list of awesome keypom resources, ecosystem maps, media, use cases. Woof woof.
 - Linkdrop Standard https://github.com/near/NEPs/pull/452
 
 ## Contracts 
+### Mainnet
 
+
+
+* [Dao-bot.keypom.near](https://nearblocks.io/address/dao-bot.keypom.near)
+* [v1-3.Keypom.near](https://nearblocks.io/address/v1-3.keypom.near)
+* [v1-4.keypom.near](https://nearblocks.io/address/v1-4.keypom.near)
+* [v2.keypom.near](https://nearblocks.io/address/v2.keypom.near)
+* [NFT-v2.keypom.near](https://nearblocks.io/address/nft-v2.keypom.near)
+* [ft.keypom.near](https://nearblocks.io/address/ft.keypom.near)
+
+### Testnet
+* v1-3.Keypom.testnet
+* v1-4.keypom.testnet
+* v2.keypom.testnet
+* NFT-v2.keypom.testnet
+* ft.keypom.testnet
+* keypom-dao-bot.testnet
+* guest-book.examples.testnet 
 
